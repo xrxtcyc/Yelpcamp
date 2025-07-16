@@ -60,12 +60,15 @@ Username에 사용자 이름 Email에 이메일 주소 Password에 비밀번호�
 Navbar에 있는 Campgrounds클릭 시 등록된 모든 Campground 표시 및 View 버튼을 통해 평점 확인 가능하다. 
   
 <img width="511" height="579" alt="image" src="https://github.com/user-attachments/assets/bfa720dc-f6a1-4b45-a368-bb5fd42c2f53" />
+
 (그림 17 등록 아이디 로그인 시 평점 화면)
 
 <img width="533" height="588" alt="image" src="https://github.com/user-attachments/assets/8e1a2eb9-ef38-4c53-b7f6-94241828bd94" />
 
 (그림 18 다른 아이디 로그인 시 평점 화면)
+
 등록 아이디로 로그인한 경우 수정 및 삭제 가능하며 다른 아이디인 경우 수정 및 삭제는 불가하지만 평점 확인 가능하다. 
+
  <img width="432" height="588" alt="image" src="https://github.com/user-attachments/assets/0a0c0b50-dc08-408a-8188-6fa625cbeba8" />
 
 (그림 19 Register 버튼 클릭 시 나오는 화면)
