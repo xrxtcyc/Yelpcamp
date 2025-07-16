@@ -77,19 +77,20 @@ Register 버튼 클릭 시 이름, 주소, 사진, 가격, 설명 등 세부 사
 
  <img width="646" height="517" alt="image" src="https://github.com/user-attachments/assets/689dbf3c-1cd7-4228-9657-81659646eabe" />
  
-<img width="646" height="517" alt="image" src="https://github.com/user-attachments/assets/c675ca7d-8d70-487f-8168-bde8ca2f6950" />
-
 (그림 20로그인 안 하고 Register 버튼 클릭 시 나오는 세션 메시지)
 
  <img width="658" height="165" alt="image" src="https://github.com/user-attachments/assets/57d22ea9-c61e-43c5-b67a-af2b69466911" />
 
 (그림 21로그인 시 나오는 세션 메시지)
+
  <img width="598" height="691" alt="image" src="https://github.com/user-attachments/assets/32a78682-0f68-42ab-9ac2-dbf8337524ca" />
 
 (그림 22 캠핑 사이트 등록 후 나오는 페이지)
+ 
  <img width="666" height="266" alt="image" src="https://github.com/user-attachments/assets/cc829876-8f5e-48bf-a0d4-060fea82003c" />
 
 (그림 23 캠핑 사이트 등록 후 All Campgrounds나오는 화면)
+ 
  <img width="759" height="567" alt="image" src="https://github.com/user-attachments/assets/27e18bbd-5f91-4fb0-994f-00b598126f21" />
 
 (그림 24등록 후 나오는 Mapbox 화면)
