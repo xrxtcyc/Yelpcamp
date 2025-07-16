@@ -72,8 +72,11 @@ Navbar에 있는 Campgrounds클릭 시 등록된 모든 Campground 표시 및 Vi
  <img width="432" height="588" alt="image" src="https://github.com/user-attachments/assets/0a0c0b50-dc08-408a-8188-6fa625cbeba8" />
 
 (그림 19 Register 버튼 클릭 시 나오는 화면)
+
 Register 버튼 클릭 시 이름, 주소, 사진, 가격, 설명 등 세부 사항 등록 가능하다.
+
  <img width="646" height="517" alt="image" src="https://github.com/user-attachments/assets/689dbf3c-1cd7-4228-9657-81659646eabe" />
+ 
 <img width="646" height="517" alt="image" src="https://github.com/user-attachments/assets/c675ca7d-8d70-487f-8168-bde8ca2f6950" />
 
 (그림 20로그인 안 하고 Register 버튼 클릭 시 나오는 세션 메시지)
