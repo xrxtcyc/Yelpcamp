@@ -21,8 +21,7 @@
 
 (그림 13 홈페이지)
 앱 초기 진입 시 나오는 페이지로 가운데 있는 View Campgrounds 클릭 시 인덱스 페이지(모든 캠프장 표시) 및 클러스터 지도 화면으로 이동한다. 오른쪽 상단에 있는 navbar을 통해서 Home, Campground , Login, Register 로 이동 할 수 있다. 
-  <img width="474" height="461" alt="image" src="https://github.com/user-attachments/assets/6dd71e8a-8ff8-424a-b052-b67400e8256a" />
-<img width="433" height="472" alt="image" src="https://github.com/user-attachments/assets/8ac69eb5-d9e1-410b-af9f-1caea76fab8b" />
+  <img width="474" height="461" alt="image" src="https://github.com/user-attachments/assets/6dd71e8a-8ff8-424a-b052-b67400e8256a" /><img width="433" height="472" alt="image" src="https://github.com/user-attachments/assets/8ac69eb5-d9e1-410b-af9f-1caea76fab8b" />
 
 (그림 14 회원가입)                  (그림15 경고 메시지 표시)
 Username에 사용자 이름 Email에 이메일 주소 Password에 비밀번호를 등록할 수 있다. 부트스트랩을 이용하여 UI를 디자인하였다. Form Validation을 이용하여 미 입력 시 경고 메시지를 출력한다.
