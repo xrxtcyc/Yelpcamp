@@ -2,6 +2,8 @@
 본 논문은 웹 기반 캠프사이트 관리 시스템의 설계 및 구현을 주제로 합니다. 이 시스템은 JavaScript, Express, MongoDB (Atlas), Node.js를 사용하여 개발되었으며, 사용자 인증 및 보안, 지도 시각화 및 클라우드 기반 이미지 관리를 포함한 기능을 제공합니다.
 
 ２. 프로젝트 구조
+
+
 <img width="256" height="368" alt="image" src="https://github.com/user-attachments/assets/f0348376-d019-4585-a740-25b79858b987" /> 
 
 (그림 3. 프로젝트 구조)
