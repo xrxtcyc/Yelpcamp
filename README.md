@@ -4,7 +4,7 @@
 ２. 프로젝트 구조
  <img width="256" height="368" alt="image" src="https://github.com/user-attachments/assets/356c85cc-3eec-425d-8b77-aadd57eb1d46" />
 
- (그림 3. 프로젝트 구조)
+      (그림 3. 프로젝트 구조)
 이 Node.js 및 Express 기반 웹 애플리케이션 프로젝트는 모듈화된 디렉토리 구조로 구성되어 있습니다. cloudi-nary는 이미지 업로드 설정을, controllers는 비즈니스 로직을, models는 데이터베이스 스키마를 담당합니다. routes는 URL 경로와 로직을 연결하고, views는 서버에서 렌더링할 템플릿을 포함합니다. public에는 정적 파일이, utils에는 재사용 가능한 헬퍼 함수가 있습니다. seeds는 초기 데이터를 삽입하는 스크립트, .env는 환경 변수 파일입니다. app.js는 서버 설정 및 진입점 파일, middleware.js는 공통 미들웨어 함수, package.json은 프로젝트 정보와 종속성을 정의하며, schemas.js는 데이터 검증에 사용됩니다.
 1. cloudinary: Cloudinary와 관련된 설정이나 모듈 파일이 포함된 디렉토리로, 이미지 업로드 및 저장에 사용될 가능성이 있습니다. 
 2. controllers: 애플리케이션의 비즈니스 로직이 포함된 디렉토리로, 요청을 처리하고 데이터를 조작하거나 반환하는 코드가 여기에 있을 것입니다. 
