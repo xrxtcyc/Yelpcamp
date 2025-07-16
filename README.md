@@ -25,24 +25,32 @@
 
 (그림 14 회원가입)                  (그림15 경고 메시지 표시)
 Username에 사용자 이름 Email에 이메일 주소 Password에 비밀번호를 등록할 수 있다. 부트스트랩을 이용하여 UI를 디자인하였다. Form Validation을 이용하여 미 입력 시 경고 메시지를 출력한다.
- 
+ <img width="1089" height="487" alt="image" src="https://github.com/user-attachments/assets/89d1c240-8044-44de-8624-76d57d90f3e7" />
+
 (그림 16 인덱스 페이지(모든 캠프장 표시) 및 클러스터 지도 화면)
 Navbar에 있는 Campgrounds클릭 시 등록된 모든 Campground 표시 및 View 버튼을 통해 평점 확인 가능하다. 
-  
+  <img width="511" height="579" alt="image" src="https://github.com/user-attachments/assets/bfa720dc-f6a1-4b45-a368-bb5fd42c2f53" /><img width="533" height="588" alt="image" src="https://github.com/user-attachments/assets/8e1a2eb9-ef38-4c53-b7f6-94241828bd94" />
+
+
 (그림 17 등록 아이디 로그인 시 평점 화면)       (그림 18 다른 아이디 로그인 시 평점 화면)
 등록 아이디로 로그인한 경우 수정 및 삭제 가능하며 다른 아이디인 경우 수정 및 삭제는 불가하지만 평점 확인 가능하다. 
- 
+ <img width="432" height="588" alt="image" src="https://github.com/user-attachments/assets/0a0c0b50-dc08-408a-8188-6fa625cbeba8" />
+
 (그림 19 Register 버튼 클릭 시 나오는 화면)
 Register 버튼 클릭 시 이름, 주소, 사진, 가격, 설명 등 세부 사항 등록 가능하다.
- 
+ <img width="646" height="517" alt="image" src="https://github.com/user-attachments/assets/689dbf3c-1cd7-4228-9657-81659646eabe" />
+<img width="646" height="517" alt="image" src="https://github.com/user-attachments/assets/c675ca7d-8d70-487f-8168-bde8ca2f6950" />
+
 (그림 20로그인 안 하고 Register 버튼 클릭 시 나오는 세션 메시지)
 
- 
+ <img width="658" height="165" alt="image" src="https://github.com/user-attachments/assets/57d22ea9-c61e-43c5-b67a-af2b69466911" />
+
 (그림 21로그인 시 나오는 세션 메시지)
  
 (그림 22 캠핑 사이트 등록 후 나오는 페이지)
  
 (그림 23 캠핑 사이트 등록 후 All Campgrounds나오는 화면)
- 
+ <img width="759" height="567" alt="image" src="https://github.com/user-attachments/assets/27e18bbd-5f91-4fb0-994f-00b598126f21" />
+
 (그림 24등록 후 나오는 Mapbox 화면)
 
