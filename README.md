@@ -39,17 +39,21 @@
  <img width="938" height="503" alt="image" src="https://github.com/user-attachments/assets/71d876a4-5cde-45b3-8665-2a634a55dad3" />
 
 (그림 13 홈페이지)
+
 앱 초기 진입 시 나오는 페이지로 가운데 있는 View Campgrounds 클릭 시 인덱스 페이지(모든 캠프장 표시) 및 클러스터 지도 화면으로 이동한다. 오른쪽 상단에 있는 navbar을 통해서 Home, Campground , Login, Register 로 이동 할 수 있다. 
+ 
   <img width="474" height="461" alt="image" src="https://github.com/user-attachments/assets/6dd71e8a-8ff8-424a-b052-b67400e8256a" /><img width="433" height="472" alt="image" src="https://github.com/user-attachments/assets/8ac69eb5-d9e1-410b-af9f-1caea76fab8b" />
 
 (그림 14 회원가입)                  (그림15 경고 메시지 표시)
+
 Username에 사용자 이름 Email에 이메일 주소 Password에 비밀번호를 등록할 수 있다. 부트스트랩을 이용하여 UI를 디자인하였다. Form Validation을 이용하여 미 입력 시 경고 메시지를 출력한다.
+
  <img width="1089" height="487" alt="image" src="https://github.com/user-attachments/assets/89d1c240-8044-44de-8624-76d57d90f3e7" />
 
 (그림 16 인덱스 페이지(모든 캠프장 표시) 및 클러스터 지도 화면)
 Navbar에 있는 Campgrounds클릭 시 등록된 모든 Campground 표시 및 View 버튼을 통해 평점 확인 가능하다. 
+  
   <img width="511" height="579" alt="image" src="https://github.com/user-attachments/assets/bfa720dc-f6a1-4b45-a368-bb5fd42c2f53" /><img width="533" height="588" alt="image" src="https://github.com/user-attachments/assets/8e1a2eb9-ef38-4c53-b7f6-94241828bd94" />
-
 
 (그림 17 등록 아이디 로그인 시 평점 화면)       (그림 18 다른 아이디 로그인 시 평점 화면)
 등록 아이디로 로그인한 경우 수정 및 삭제 가능하며 다른 아이디인 경우 수정 및 삭제는 불가하지만 평점 확인 가능하다. 
