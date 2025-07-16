@@ -46,9 +46,11 @@ Register 버튼 클릭 시 이름, 주소, 사진, 가격, 설명 등 세부 사
  <img width="658" height="165" alt="image" src="https://github.com/user-attachments/assets/57d22ea9-c61e-43c5-b67a-af2b69466911" />
 
 (그림 21로그인 시 나오는 세션 메시지)
- 
+ <img width="598" height="691" alt="image" src="https://github.com/user-attachments/assets/32a78682-0f68-42ab-9ac2-dbf8337524ca" />
+
 (그림 22 캠핑 사이트 등록 후 나오는 페이지)
- 
+ <img width="666" height="266" alt="image" src="https://github.com/user-attachments/assets/cc829876-8f5e-48bf-a0d4-060fea82003c" />
+
 (그림 23 캠핑 사이트 등록 후 All Campgrounds나오는 화면)
  <img width="759" height="567" alt="image" src="https://github.com/user-attachments/assets/27e18bbd-5f91-4fb0-994f-00b598126f21" />
 
